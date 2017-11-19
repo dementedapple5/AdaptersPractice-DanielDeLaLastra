@@ -12,7 +12,7 @@ import com.example.alumne.adapterspractice.model.Producto
 /**
  * Created by Alumne on 15/11/2017.
  */
-class ItemAdapter(val productos: ArrayList<Producto>, context: Context) : BaseAdapter() {
+class ItemAdapter(private val productos: ArrayList<Producto>, context: Context) : BaseAdapter() {
 
 
     private val context = context
