@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdaptersPractice</string>
+    <string name="item_title">Title</string>
+    <string name="stock">Stock</string>
+</resources>
