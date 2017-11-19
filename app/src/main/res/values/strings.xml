@@ -2,4 +2,31 @@
     <string name="app_name">AdaptersPractice</string>
     <string name="item_title">Title</string>
     <string name="stock">Stock</string>
+
+    <string-array name="titles">
+        <item>Iphone X</item>
+        <item>Samsung S8</item>
+        <item>Huawei P10</item>
+        <item>Xiaomi mi6</item>
+        <item>Oneplus 5</item>
+        <item>Oneplus 5T</item>
+        <item>Sonyx Xperia</item>
+        <item>Google Pixel 2</item>
+        <item>Xiaomi miA1</item>
+    </string-array>
+
+    <integer-array name="stocks">
+        <item>10</item>
+        <item>21</item>
+        <item>15</item>
+        <item>33</item>
+        <item>16</item>
+        <item>27</item>
+        <item>18</item>
+        <item>30</item>
+        <item>33</item>
+    </integer-array>
+
+
+
 </resources>

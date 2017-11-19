@@ -12,6 +12,9 @@ import com.example.alumne.adapterspractice.model.Producto
 /**
  * Created by Alumne on 15/11/2017.
  */
+
+/*
+* Heredo de base adapter porque es la clase más completa y que más métodos me brinda, y a su vez he creado un adapter personalizado porque no existia ninguno que cumpliera con los tipos de datos que quiero mostrar*/
 class ItemAdapter(private val productos: ArrayList<Producto>, context: Context) : BaseAdapter() {
 
 

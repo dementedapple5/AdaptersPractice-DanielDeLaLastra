@@ -5,6 +5,8 @@
     android:layout_height="match_parent"
     tools:context="com.example.alumne.adapterspractice.MainActivity">
 
+
+    <!--Uso list view ya que es suficiente para lo que quiero mostrar y no preciso de una RecyclerView que seria un poco más compleja y no es necesaria en este ejercicio-->
     <ListView
         android:id="@+id/items_list"
         android:layout_width="match_parent"
